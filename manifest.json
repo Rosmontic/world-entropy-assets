@@ -13,6 +13,7 @@
     { "cardId": "C1", "name": "空天", "path": "cards/c1-empty-sky.svg", "width": 600, "height": 380, "type": "image/svg+xml" },
     { "cardId": "O1", "name": "无名原野", "path": "cards/o1-field.svg", "width": 600, "height": 380, "type": "image/svg+xml" },
     { "cardId": "O2", "name": "观测灯塔", "path": "cards/o2-lighthouse.svg", "width": 600, "height": 380, "type": "image/svg+xml" },
-    { "cardId": "O3", "name": "静默公约", "path": "cards/o3-pact.svg", "width": 600, "height": 380, "type": "image/svg+xml" }
+    { "cardId": "O3", "name": "静默公约", "path": "cards/o3-pact.svg", "width": 600, "height": 380, "type": "image/svg+xml" },
+    { "cardId": "O1000", "name": "存在", "path": "cards/o1000-existence.svg", "width": 600, "height": 380, "type": "image/svg+xml" }
   ]
 }
